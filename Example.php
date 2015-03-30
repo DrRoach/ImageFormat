@@ -9,7 +9,7 @@ new Create([
     'image' => 'snorkel.jpg',
     'width' => 400,
     'height' => 400,
-    'background' => '#9b59b6',
+    'background' => '#000000',
     'name' => 'thumb',
     'accuracy' => 40 //Optional
 ]);
